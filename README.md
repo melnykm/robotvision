@@ -35,7 +35,7 @@ pip install numpy matplotlib
 2. Run the program:
 
 ```
-python main.py
+PS C:\Users\User> & "C:/Python312/python.exe" "D:/3 курс/2/CШ/ВАР?АНТ 4/ргр/robotharvesterVision.py"
 ```
 
 ## Author
